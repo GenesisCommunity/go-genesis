@@ -70,17 +70,6 @@ You can receive an extra +10 GEN if you write the login of a GitHub user who tol
 
 As a result, around 850 thousand programmers will take full control over the blockchain platform and will be able to start building a new world with new rules.<br> <br>
 
-After starting the mainnet, GEN will be added to exchanges without any problems. By the way, currently there are no public blockchain platforms on the exchanges that allow for development of custom smart contracts, and that have the total cost of its coins amounting to less than $1 billion.
-
-Platform | Smart-contracts | Market Cap | Token price | Total Supply| Github | Source code
---- | --- | --- | --- | ---| --- | ---
-Ethereum | [Documentation](http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html) | $80B | [$800](https://coinmarketcap.com/currencies/ethereum/)  | 100M | [ethereum](https://github.com/ethereum/go-ethereum) | original
-NEO | [Documentation](http://docs.neo.org/en-us/sc/introduction.html) | $6B | [$100](https://coinmarketcap.com/currencies/neo/) | 100M| [neo-project](https://github.com/neo-project/neo) | original
-EOS | [Documentation](https://github.com/EOSIO/eos/wiki/Smart-Contract) | $5 | [$8](https://coinmarketcap.com/currencies/eos/) | 900M | [EOSIO](https://github.com/EOSIO/eos) | original
-Qtum | [Documentation](https://github.com/qtumproject/qtum/blob/master/doc/sparknet-guide.md) | $1B | [$20](https://coinmarketcap.com/currencies/qtum/) | 100M |  [qtumproject](https://github.com/qtumproject/qtum) | bitcoin fork
-
-Based on information available at https://coinmarketcap.com/tokens/
-
 ## Integration with GitHub
 We plan on providing the option to pay for the approved pull requests and closed issues with GEN. In other words, you can integrate Genesis in your repository and automatically pay users, who help improve your product.<br>
 Add our badge to your repository to support Genesis.<br>
